@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="arnolds_app">Arnold\'s app</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="welcome_back">Welcome back! Please login</string>
+    <string name="new_here">NEW HERE?</string>
+    <string name="create_one">Create One</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="signup_subtitle">Fill in your details to get started</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login_link">Login here</string>
+</resources>
